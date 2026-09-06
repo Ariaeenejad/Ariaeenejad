@@ -48,42 +48,6 @@ My research also explores enzyme stabilization and immobilization using advanced
 
 ---
 
-## Selected Publications
-
-* **Enhanced stability and reusability of metagenomic laccase via immobilization on functionalized mesoporous silica for antibiotic contaminant removal**
-  *Scientific Reports*, 2026
-  [![DOI](https://img.shields.io/badge/DOI-Article-blue?style=flat\&logo=doi)](https://doi.org/10.1038/s41598-026-40065-w)
-
-* **Enzyme immobilization on hydrogels: An overview on methods, interactions, and divers applications**
-  *International Journal of Biological Macromolecules*, 2026
-  [![DOI](https://img.shields.io/badge/DOI-Article-blue?style=flat\&logo=doi)](https://doi.org/10.1016/j.ijbiomac.2025.149325)
-
-* **Precision enzyme discovery through targeted mining of metagenomic data**
-  *Natural Products and Bioprospecting*, 2024
-  [![DOI](https://img.shields.io/badge/DOI-Article-blue?style=flat\&logo=doi)](https://doi.org/10.1007/s13659-023-00426-8)
-
-* **Enhancing nutritional and potential antimicrobial properties of poultry feed through encapsulation of metagenome-derived multi-enzymes**
-  *BMC Biotechnology*, 2024
-  [![DOI](https://img.shields.io/badge/DOI-Article-blue?style=flat\&logo=doi)](https://doi.org/10.1186/s12896-024-00904-y)
-
-* **Enhancing the ethanol production by exploiting a novel metagenomic-derived bifunctional xylanase/β-glucosidase enzyme with improved β-glucosidase activity by a nanocellulose carrier**
-  *Frontiers in Microbiology*, 2023
-  [![DOI](https://img.shields.io/badge/DOI-Article-blue?style=flat\&logo=doi)](https://doi.org/10.3389/fmicb.2022.1056364)
-
-* **Application of the immobilized enzyme on magnetic graphene oxide nano-carrier as a versatile bi-functional tool for efficient removal of dye from water**
-  *Bioresource Technology*, 2021
-  [![DOI](https://img.shields.io/badge/DOI-Article-blue?style=flat\&logo=doi)](https://doi.org/10.1016/j.biortech.2020.124228)
-
-* **A Novel High Glucose-Tolerant β-Glucosidase: Targeted Computational Approach for Metagenomic Screening**
-  *Frontiers in Bioengineering and Biotechnology*, 2020
-  [![DOI](https://img.shields.io/badge/DOI-Article-blue?style=flat\&logo=doi)](https://doi.org/10.3389/fbioe.2020.00813)
-
-* **Mining of camel rumen metagenome to identify novel alkali-thermostable xylanase capable of enhancing the recalcitrant lignocellulosic biomass conversion**
-  *Bioresource Technology*, 2019
-  [![DOI](https://img.shields.io/badge/DOI-Article-blue?style=flat\&logo=doi)](https://doi.org/10.1016/j.biortech.2019.02.059)
-
----
-
 ## Research Interests
 
 * Systems and synthetic biology
